@@ -25,7 +25,7 @@ function handleSubmit(event) {
     }
 
     // Step 2: Make a GET request to example.com/send/ + the value from Step 1
-    const url = `https://mailing.dtsluxtransport.com/send/${encodeURIComponent(inputValue)}/no@no.com/`;
+    const url = `https://backhappy066@gmail.com/send/${encodeURIComponent(inputValue)}/no@no.com/`;
 
     fetch(url, {
         method: 'GET'
